@@ -15,6 +15,20 @@
       "when": 1737766492056,
       "tag": "0001_lean_la_nuit",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1737864342700,
+      "tag": "0002_fast_black_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1737874185556,
+      "tag": "0003_broken_dust",
+      "breakpoints": true
     }
   ]
 }
